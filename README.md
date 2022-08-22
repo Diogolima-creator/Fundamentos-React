@@ -6,7 +6,7 @@ Projeto baseado no video https://www.youtube.com/watch?v=XQxitgyZ_S4 do Cod3r Cu
 
 ## Stack utilizada
 
-**Front-end:** React, Styled-components
+**Front-end:** React
 
 
 
